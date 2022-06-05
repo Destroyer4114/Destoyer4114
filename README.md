@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Mehul Kaushal</h1>
+<h1 align="center">Hi 👋, I'm Mehul Kaushal</h1>
 <h3 align="center">A passionate full stack developer and an enthusiastic coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=destroyer4114&label=Profile%20views&color=1f6f63&style=plastic" alt="destroyer4114" /> </p>
